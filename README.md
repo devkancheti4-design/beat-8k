@@ -87,3 +87,8 @@ The second runs the Uno program on the simulated chip: 5,478 s of chip time, abo
 - It has no learner for sensor streams, and no estimate for a sequence it cannot solve exactly.
 - Its Uno build has no sequences and takes at most 12 examples.
 - The 32-bit build refuses inputs beyond about ±67 million for x and ±1 billion for y.
+
+## Licence
+
+MIT: see [`LICENSE`](LICENSE). It covers everything in this repository. edai's library, problems and scripts are not
+in this repository and are not covered by it.
