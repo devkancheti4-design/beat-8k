@@ -1,0 +1,7 @@
+peak stack on: main (static data 0, heap 0 in every build)
+64-bit                                       x->y problems  2432 B   sequences  1208 B
+64-bit, deep                                 x->y problems  2528 B   sequences  1208 B
+32-bit                                       x->y problems  2248 B   sequences  1208 B
+32-bit, deep                                 x->y problems  2344 B   sequences  1208 B
+32-bit, 12 examples, float, no sequences     x->y problems  1944 B   sequences     0 B
+edai 1.2, main: worst library stack use: 2640 bytes (promise: at most 3072)

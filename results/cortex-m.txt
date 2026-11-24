@@ -1,0 +1,35 @@
+== cortex-m0plus
+64-bit                             build/cm/o.o: flash 21,724 B (code 21,292, constants 432, initial data 0); static RAM 0 B
+      bt_solve: 2472 bytes  (bt_solve 40 > bt_solve_rule 744 > search 1184 > run_pass 56 > enumerate 80 > visit 192 > fill 32 > get_slow 88 > apply_u 56)
+      helpers called (not followed): __aeabi_d2iz __aeabi_d2lz __aeabi_dadd __aeabi_dcmpeq __aeabi_dcmpgt __aeabi_dcmplt __aeabi_ddiv __aeabi_dmul __aeabi_dsub __aeabi_i2d __aeabi_idiv __aeabi_idivmod
+64-bit, deep                       build/cm/o.o: flash 27,276 B (code 26,764, constants 512, initial data 0); static RAM 0 B
+      bt_solve: 2560 bytes  (bt_solve 40 > bt_solve_rule 832 > search 1184 > run_pass 56 > enumerate 80 > visit 192 > fill 32 > get_slow 88 > apply_u 56)
+      helpers called (not followed): __aeabi_d2iz __aeabi_d2lz __aeabi_dadd __aeabi_dcmpeq __aeabi_dcmpgt __aeabi_dcmplt __aeabi_ddiv __aeabi_dmul __aeabi_dsub __aeabi_i2d __aeabi_idiv __aeabi_idivmod
+32-bit                             build/cm/o.o: flash 19,152 B (code 18,728, constants 424, initial data 0); static RAM 0 B
+      bt_solve: 2224 bytes  (bt_solve 40 > bt_solve_rule 576 > search 1184 > run_pass 64 > enumerate 80 > visit 176 > fill 24 > get_slow 40 > apply_u 40)
+      helpers called (not followed): __aeabi_d2iz __aeabi_dadd __aeabi_dcmpeq __aeabi_dcmpge __aeabi_dcmpgt __aeabi_dcmple __aeabi_dcmplt __aeabi_ddiv __aeabi_dmul __aeabi_dsub __aeabi_i2d __aeabi_idi
+32-bit, deep                       build/cm/o.o: flash 23,640 B (code 23,136, constants 504, initial data 0); static RAM 0 B
+      bt_solve: 2320 bytes  (bt_solve 40 > bt_solve_rule 672 > search 1184 > run_pass 64 > enumerate 80 > visit 176 > fill 24 > get_slow 40 > apply_u 40)
+      helpers called (not followed): __aeabi_d2iz __aeabi_dadd __aeabi_dcmpeq __aeabi_dcmpge __aeabi_dcmpgt __aeabi_dcmple __aeabi_dcmplt __aeabi_ddiv __aeabi_dmul __aeabi_dsub __aeabi_i2d __aeabi_idi
+32-bit, 12 examples, float, no seq build/cm/o.o: flash 13,848 B (code 13,540, constants 308, initial data 0); static RAM 0 B
+      bt_solve: 1912 bytes  (bt_solve 40 > bt_solve_rule 528 > search 920 > run_pass 64 > enumerate 80 > visit 176 > fill 24 > get_slow 40 > apply_u 40)
+      helpers called (not followed): __aeabi_f2iz __aeabi_fadd __aeabi_fcmpeq __aeabi_fcmpge __aeabi_fcmpgt __aeabi_fcmple __aeabi_fcmplt __aeabi_fdiv __aeabi_fmul __aeabi_fsub __aeabi_i2f __aeabi_idi
+== cortex-m33
+64-bit                             build/cm/o.o: flash 21,676 B (code 21,252, constants 424, initial data 0); static RAM 0 B
+      bt_solve: 2280 bytes  (bt_solve 40 > bt_solve_rule 704 > search 1152 > run_pass 56 > enumerate 72 > visit 152 > fill 16 > get_slow 56 > apply_u 32)
+      helpers called (not followed): __aeabi_d2iz __aeabi_d2lz __aeabi_dadd __aeabi_dcmpeq __aeabi_dcmpgt __aeabi_dcmplt __aeabi_ddiv __aeabi_dmul __aeabi_dsub __aeabi_i2d __aeabi_l2d __aeabi_ldivmod 
+64-bit, deep                       build/cm/o.o: flash 26,892 B (code 26,388, constants 504, initial data 0); static RAM 0 B
+      bt_solve: 2360 bytes  (bt_solve 40 > bt_solve_rule 784 > search 1152 > run_pass 56 > enumerate 72 > visit 152 > fill 16 > get_slow 56 > apply_u 32)
+      helpers called (not followed): __aeabi_d2iz __aeabi_d2lz __aeabi_dadd __aeabi_dcmpeq __aeabi_dcmpgt __aeabi_dcmplt __aeabi_ddiv __aeabi_dmul __aeabi_dsub __aeabi_i2d __aeabi_l2d __aeabi_ldivmod 
+32-bit                             build/cm/o.o: flash 19,520 B (code 19,104, constants 416, initial data 0); static RAM 0 B
+      bt_solve: 2084 bytes  (bt_solve 40 > bt_solve_rule 552 > search 1152 > run_pass 56 > enumerate 72 > visit 136 > fill 16 > get_slow 40 > apply_u 20)
+      helpers called (not followed): __aeabi_d2iz __aeabi_dadd __aeabi_dcmpeq __aeabi_dcmpge __aeabi_dcmpgt __aeabi_dcmple __aeabi_dcmplt __aeabi_ddiv __aeabi_dmul __aeabi_dsub __aeabi_i2d __aeabi_ldi
+32-bit, deep                       build/cm/o.o: flash 23,912 B (code 23,424, constants 488, initial data 0); static RAM 0 B
+      bt_solve: 2172 bytes  (bt_solve 40 > bt_solve_rule 640 > search 1152 > run_pass 56 > enumerate 72 > visit 136 > fill 16 > get_slow 40 > apply_u 20)
+      helpers called (not followed): __aeabi_d2iz __aeabi_dadd __aeabi_dcmpeq __aeabi_dcmpge __aeabi_dcmpgt __aeabi_dcmple __aeabi_dcmplt __aeabi_ddiv __aeabi_dmul __aeabi_dsub __aeabi_i2d __aeabi_ldi
+32-bit, 12 examples, float, no seq build/cm/o.o: flash 13,744 B (code 13,468, constants 276, initial data 0); static RAM 0 B
+      bt_solve: 1780 bytes  (bt_solve 40 > bt_solve_rule 504 > search 896 > run_pass 56 > enumerate 72 > visit 136 > fill 16 > get_slow 40 > apply_u 20)
+      helpers called (not followed): none
+== edai 1.2 libraries, same tool
+edai cortex-m0plus                 edai/brain/lib/cortex-m0plus/libaa.a: flash 23,098 B (code 22,564, constants 534, initial data 0); static RAM 0 B
+edai cortex-m33                    edai/brain/lib/cortex-m33/libaa.a: flash 25,017 B (code 24,486, constants 531, initial data 0); static RAM 0 B

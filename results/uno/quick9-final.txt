@@ -1,0 +1,34 @@
+program: 31394 bytes of flash
+BEAT8K UNO TEST
+START 9 problems
+    [problem 1: 1181.6 s of chip time at 16 MHz, 18904962409 cycles; stack down to 0x269: 1686 bytes below the top of RAM]
+p000 trend by=TREND ans=209.34,204.24
+RAM never touched so far: 362 bytes
+    [problem 2: 1369.3 s of chip time at 16 MHz, 21908269051 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p001 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 362 bytes
+    [problem 3: 31.0 s of chip time at 16 MHz, 496463258 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p002 rule  by=RULE ans=428,460
+RAM never touched so far: 362 bytes
+    [problem 4: 269.1 s of chip time at 16 MHz, 4305350884 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p095 trend by=TREND ans=-60.90,-359.52
+RAM never touched so far: 362 bytes
+    [problem 5: 279.3 s of chip time at 16 MHz, 4469389580 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p099 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 362 bytes
+    [problem 6: 44.6 s of chip time at 16 MHz, 713891611 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p105 rule  by=RULE ans=567009,620944
+RAM never touched so far: 362 bytes
+    [problem 7: 44.1 s of chip time at 16 MHz, 706184084 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p193 rule  by=RULE ans=238,228
+RAM never touched so far: 362 bytes
+    [problem 8: 1241.0 s of chip time at 16 MHz, 19855705715 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p199 trend by=TREND ans=271.53,107.18
+RAM never touched so far: 362 bytes
+    [problem 9: 1018.0 s of chip time at 16 MHz, 16287540159 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p213 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 362 bytes
+KIND right 9/9
+RAM never touched during the run: 362 of 2048 bytes
+DONE
+program finished after 5478.0 s of chip time at 16 MHz (87647946964 cycles). Deepest stack: 0x269, 1686 bytes below the top of RAM (0x8FF).

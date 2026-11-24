@@ -1,0 +1,34 @@
+program: 28902 bytes of flash
+BEAT8K UNO TEST
+START 9 problems
+    [problem 1: 3706.2 s of chip time at 16 MHz, 59298662030 cycles; stack down to 0x267: 1688 bytes below the top of RAM]
+p000 trend by=TREND ans=209.34,204.24
+RAM never touched so far: 360 bytes
+    [problem 2: 4217.0 s of chip time at 16 MHz, 67472573663 cycles; stack down to 0x267: 1688 bytes below the top of RAM]
+p001 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 360 bytes
+    [problem 3: 1262.8 s of chip time at 16 MHz, 20205295910 cycles; stack down to 0x267: 1688 bytes below the top of RAM]
+p002 rule  by=RULE ans=428,460
+RAM never touched so far: 360 bytes
+    [problem 4: 794.2 s of chip time at 16 MHz, 12706988043 cycles; stack down to 0x267: 1688 bytes below the top of RAM]
+p095 trend by=TREND ans=-60.90,-359.52
+RAM never touched so far: 360 bytes
+    [problem 5: 815.4 s of chip time at 16 MHz, 13046369671 cycles; stack down to 0x267: 1688 bytes below the top of RAM]
+p099 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 360 bytes
+    [problem 6: 1227.8 s of chip time at 16 MHz, 19644579023 cycles; stack down to 0x267: 1688 bytes below the top of RAM]
+p105 rule  by=RULE ans=567009,620944
+RAM never touched so far: 360 bytes
+    [problem 7: 7430.7 s of chip time at 16 MHz, 118890770933 cycles; stack down to 0x267: 1688 bytes below the top of RAM]
+p193 rule  by=RULE ans=238,228
+RAM never touched so far: 360 bytes
+    [problem 8: 3741.6 s of chip time at 16 MHz, 59865183042 cycles; stack down to 0x267: 1688 bytes below the top of RAM]
+p199 trend by=TREND ans=271.53,107.18
+RAM never touched so far: 360 bytes
+    [problem 9: 3135.3 s of chip time at 16 MHz, 50164494111 cycles; stack down to 0x267: 1688 bytes below the top of RAM]
+p213 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 360 bytes
+KIND right 9/9
+RAM never touched during the run: 360 of 2048 bytes
+DONE
+program finished after 26330.9 s of chip time at 16 MHz (421295105537 cycles). Deepest stack: 0x267, 1688 bytes below the top of RAM (0x8FF).

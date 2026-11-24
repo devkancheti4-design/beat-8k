@@ -1,0 +1,34 @@
+program: 30922 bytes of flash
+BEAT8K UNO TEST
+START 9 problems
+    [problem 1: 1181.6 s of chip time at 16 MHz, 18904881656 cycles; stack down to 0x26D: 1682 bytes below the top of RAM]
+p000 trend by=TREND ans=209.34,204.24
+RAM never touched so far: 366 bytes
+    [problem 2: 1369.3 s of chip time at 16 MHz, 21908184458 cycles; stack down to 0x277: 1672 bytes below the top of RAM]
+p001 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 366 bytes
+    [problem 3: 364.3 s of chip time at 16 MHz, 5829454034 cycles; stack down to 0x277: 1672 bytes below the top of RAM]
+p002 rule  by=RULE ans=428,460
+RAM never touched so far: 366 bytes
+    [problem 4: 269.1 s of chip time at 16 MHz, 4305334192 cycles; stack down to 0x277: 1672 bytes below the top of RAM]
+p095 trend by=TREND ans=-60.90,-359.52
+RAM never touched so far: 366 bytes
+    [problem 5: 279.3 s of chip time at 16 MHz, 4469374355 cycles; stack down to 0x277: 1672 bytes below the top of RAM]
+p099 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 366 bytes
+    [problem 6: 459.1 s of chip time at 16 MHz, 7345320861 cycles; stack down to 0x277: 1672 bytes below the top of RAM]
+p105 rule  by=RULE ans=567009,620944
+RAM never touched so far: 366 bytes
+    [problem 7: 2187.9 s of chip time at 16 MHz, 35006643249 cycles; stack down to 0x277: 1672 bytes below the top of RAM]
+p193 rule  by=RULE ans=238,228
+RAM never touched so far: 366 bytes
+    [problem 8: 1241.0 s of chip time at 16 MHz, 19855629172 cycles; stack down to 0x277: 1672 bytes below the top of RAM]
+p199 trend by=TREND ans=271.53,107.18
+RAM never touched so far: 366 bytes
+    [problem 9: 1018.0 s of chip time at 16 MHz, 16287479100 cycles; stack down to 0x277: 1672 bytes below the top of RAM]
+p213 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 366 bytes
+KIND right 9/9
+RAM never touched during the run: 366 of 2048 bytes
+DONE
+program finished after 8369.5 s of chip time at 16 MHz (133912492010 cycles). Deepest stack: 0x26D, 1682 bytes below the top of RAM (0x8FF).

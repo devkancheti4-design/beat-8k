@@ -1,0 +1,52 @@
+program: 32040 bytes of flash
+BEAT8K UNO TEST
+START 15 problems
+    [problem 1: 329.4 s of chip time at 16 MHz, 5271172654 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p003 trend by=TREND ans=-517.21,-136.29
+RAM never touched so far: 372 bytes
+    [problem 2: 375.9 s of chip time at 16 MHz, 6013949641 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p005 rule  by=PIECES ans=180,680
+RAM never touched so far: 372 bytes
+    [problem 3: 330.3 s of chip time at 16 MHz, 5284237491 cycles; stack down to 0x26D: 1682 bytes below the top of RAM]
+p006 trend by=TREND ans=70.64,94.42
+RAM never touched so far: 366 bytes
+    [problem 4: 1256.2 s of chip time at 16 MHz, 20099029299 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p007 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 366 bytes
+    [problem 5: 1364.4 s of chip time at 16 MHz, 21831182870 cycles; stack down to 0x26D: 1682 bytes below the top of RAM]
+p008 rule  by=PIECES ans=78,32
+RAM never touched so far: 366 bytes
+    [problem 6: 1070.3 s of chip time at 16 MHz, 17125384047 cycles; stack down to 0x269: 1686 bytes below the top of RAM]
+p010 trend by=TREND ans=129.84,158.89
+RAM never touched so far: 362 bytes
+    [problem 7: 1098.6 s of chip time at 16 MHz, 17577725036 cycles; stack down to 0x269: 1686 bytes below the top of RAM]
+p012 trend by=TREND ans=122.04,18.40
+RAM never touched so far: 362 bytes
+    [problem 8: 279.7 s of chip time at 16 MHz, 4475497504 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p013 trend by=TREND ans=-128.84,-243.88
+RAM never touched so far: 362 bytes
+    [problem 9: 1163.7 s of chip time at 16 MHz, 18619868592 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p019 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 362 bytes
+    [problem 10: 318.3 s of chip time at 16 MHz, 5092344824 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p024 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 362 bytes
+    [problem 11: 292.1 s of chip time at 16 MHz, 4673450691 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p027 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 362 bytes
+    [problem 12: 150.3 s of chip time at 16 MHz, 2404890086 cycles; stack down to 0x269: 1686 bytes below the top of RAM]
+p045 rule  by=RULE ans=15142,24646
+RAM never touched so far: 362 bytes
+    [problem 13: 39.5 s of chip time at 16 MHz, 631609456 cycles; stack down to 0x26D: 1682 bytes below the top of RAM]
+p048 rule  by=RULE ans=7752,11457
+RAM never touched so far: 362 bytes
+    [problem 14: 86.2 s of chip time at 16 MHz, 1379494221 cycles; stack down to 0x273: 1676 bytes below the top of RAM]
+p052 rule  by=RULE ans=11,10
+RAM never touched so far: 362 bytes
+    [problem 15: 311.2 s of chip time at 16 MHz, 4978720845 cycles; stack down to 0x26D: 1682 bytes below the top of RAM]
+p065 noise by=CANNOT ans=CANNOT
+RAM never touched so far: 362 bytes
+KIND right 15/15
+RAM never touched during the run: 362 of 2048 bytes
+DONE
+program finished after 8466.2 s of chip time at 16 MHz (135458840537 cycles). Deepest stack: 0x269, 1686 bytes below the top of RAM (0x8FF).

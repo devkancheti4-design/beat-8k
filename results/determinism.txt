@@ -1,0 +1,7 @@
+against arm64, clang -O2 -ffp-contract=off ():
+  arm64, -O0                                     0 of 1800 lines differ
+  arm64, -O3                                     0 of 1800 lines differ
+  arm64, -Os                                     0 of 1800 lines differ
+  arm64, -O2, only the #pragma (no flag)         0 of 1800 lines differ
+  x86-64 (Rosetta), -O2                          0 of 1800 lines differ
+  x86-64 (Rosetta), -O0                          0 of 1800 lines differ

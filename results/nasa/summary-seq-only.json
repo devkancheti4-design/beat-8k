@@ -1,0 +1,116 @@
+{
+ "SMAP/train": {
+  "channels": 54,
+  "windows": 137302,
+  "share": {
+   "CANNOT": 0.5349,
+   "AM": 0.4651
+  },
+  "count": {
+   "CANNOT": 73438,
+   "AM": 63864
+  },
+  "answered_share": 0.4651,
+  "miss_median": 0.0,
+  "miss_p90": 0.0,
+  "exact_windows": 63864,
+  "exact_miss_zero_share": 0.9422,
+  "exact_miss_p90": 0.0,
+  "channels_with_am": 47
+ },
+ "SMAP/test": {
+  "channels": 54,
+  "windows": 435124,
+  "share": {
+   "CANNOT": 0.5455,
+   "AM": 0.4545
+  },
+  "count": {
+   "CANNOT": 237340,
+   "AM": 197784
+  },
+  "answered_share": 0.4545,
+  "miss_median": 0.0,
+  "miss_p90": 0.0,
+  "exact_windows": 197784,
+  "exact_miss_zero_share": 0.9389,
+  "exact_miss_p90": 0.0,
+  "channels_with_am": 50
+ },
+ "MSL/train": {
+  "channels": 27,
+  "windows": 57966,
+  "share": {
+   "CANNOT": 0.668,
+   "AM": 0.332
+  },
+  "count": {
+   "CANNOT": 38722,
+   "AM": 19244
+  },
+  "answered_share": 0.332,
+  "miss_median": 0.0,
+  "miss_p90": 0.0,
+  "exact_windows": 19244,
+  "exact_miss_zero_share": 0.9611,
+  "exact_miss_p90": 0.0,
+  "channels_with_am": 21
+ },
+ "MSL/test": {
+  "channels": 27,
+  "windows": 73378,
+  "share": {
+   "CANNOT": 0.7166,
+   "AM": 0.2834
+  },
+  "count": {
+   "CANNOT": 52582,
+   "AM": 20796
+  },
+  "answered_share": 0.2834,
+  "miss_median": 0.0,
+  "miss_p90": 0.0,
+  "exact_windows": 20796,
+  "exact_miss_zero_share": 0.9495,
+  "exact_miss_p90": 0.0,
+  "channels_with_am": 21
+ },
+ "both/train": {
+  "channels": 81,
+  "windows": 195268,
+  "share": {
+   "CANNOT": 0.5744,
+   "AM": 0.4256
+  },
+  "count": {
+   "CANNOT": 112160,
+   "AM": 83108
+  },
+  "answered_share": 0.4256,
+  "miss_median": 0.0,
+  "miss_p90": 0.0,
+  "exact_windows": 83108,
+  "exact_miss_zero_share": 0.9466,
+  "exact_miss_p90": 0.0,
+  "channels_with_am": 68
+ },
+ "both/test": {
+  "channels": 81,
+  "windows": 508502,
+  "share": {
+   "CANNOT": 0.5701,
+   "AM": 0.4299
+  },
+  "count": {
+   "CANNOT": 289922,
+   "AM": 218580
+  },
+  "answered_share": 0.4299,
+  "miss_median": 0.0,
+  "miss_p90": 0.0,
+  "exact_windows": 218580,
+  "exact_miss_zero_share": 0.9399,
+  "exact_miss_p90": 0.0,
+  "channels_with_am": 71
+ }
+}

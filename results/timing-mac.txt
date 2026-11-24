@@ -1,0 +1,7 @@
+edai 1.2 (its own runner)                      13.3 s
+beat8k, 64-bit                                 18.7 s
+beat8k, 64-bit, deep                           58.2 s
+beat8k, 32-bit                                 18.3 s
+beat8k, 32-bit, deep                           66.8 s
+beat8k, 32-bit, 12 examples, float, no seq     21.0 s
+my old table solver, portable (1.4 MB of tables) 5.3 s

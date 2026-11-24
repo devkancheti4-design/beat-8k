@@ -1,0 +1,36 @@
+set        solver                       score
+seed-30    edai 1.2                     right 265 of 300: rules 87/120, trends 119/120, noise 59/60
+seed-30    beat8k                       right 273 of 300: rules 94/120, trends 119/120, noise 60/60
+seed-30    beat8k, deep                 right 275 of 300: rules 96/120, trends 119/120, noise 60/60
+seed-30    beat8k, Uno build            right 233 of 300: rules 54/120, trends 119/120, noise 60/60
+seed-30    old table solver             right 273 of 300: rules 94/120, trends 119/120, noise 60/60
+seed-30    old table solver, deep       right 275 of 300: rules 96/120, trends 119/120, noise 60/60
+seed-30    lines that differ, beat8k vs old table solver: 0; deep: 0
+seed-31    edai 1.2                     right 270 of 300: rules 93/120, trends 118/120, noise 59/60
+seed-31    beat8k                       right 276 of 300: rules 99/120, trends 117/120, noise 60/60
+seed-31    beat8k, deep                 right 277 of 300: rules 100/120, trends 117/120, noise 60/60
+seed-31    beat8k, Uno build            right 236 of 300: rules 59/120, trends 117/120, noise 60/60
+seed-31    old table solver             right 276 of 300: rules 99/120, trends 117/120, noise 60/60
+seed-31    old table solver, deep       right 277 of 300: rules 100/120, trends 117/120, noise 60/60
+seed-31    lines that differ, beat8k vs old table solver: 0; deep: 0
+seed-32    edai 1.2                     right 277 of 300: rules 101/120, trends 117/120, noise 59/60
+seed-32    beat8k                       right 278 of 300: rules 99/120, trends 119/120, noise 60/60
+seed-32    beat8k, deep                 right 284 of 300: rules 105/120, trends 119/120, noise 60/60
+seed-32    beat8k, Uno build            right 238 of 300: rules 59/120, trends 119/120, noise 60/60
+seed-32    old table solver             right 278 of 300: rules 99/120, trends 119/120, noise 60/60
+seed-32    old table solver, deep       right 284 of 300: rules 105/120, trends 119/120, noise 60/60
+seed-32    lines that differ, beat8k vs old table solver: 0; deep: 0
+seed-33    edai 1.2                     right 281 of 300: rules 103/120, trends 118/120, noise 60/60
+seed-33    beat8k                       right 277 of 300: rules 101/120, trends 116/120, noise 60/60
+seed-33    beat8k, deep                 right 279 of 300: rules 103/120, trends 116/120, noise 60/60
+seed-33    beat8k, Uno build            right 237 of 300: rules 61/120, trends 116/120, noise 60/60
+seed-33    old table solver             right 277 of 300: rules 101/120, trends 116/120, noise 60/60
+seed-33    old table solver, deep       right 279 of 300: rules 103/120, trends 116/120, noise 60/60
+seed-33    lines that differ, beat8k vs old table solver: 0; deep: 0
+seed-34    edai 1.2                     right 273 of 300: rules 98/120, trends 116/120, noise 59/60
+seed-34    beat8k                       right 277 of 300: rules 99/120, trends 118/120, noise 60/60
+seed-34    beat8k, deep                 right 283 of 300: rules 105/120, trends 118/120, noise 60/60
+seed-34    beat8k, Uno build            right 237 of 300: rules 59/120, trends 118/120, noise 60/60
+seed-34    old table solver             right 277 of 300: rules 99/120, trends 118/120, noise 60/60
+seed-34    old table solver, deep       right 283 of 300: rules 105/120, trends 118/120, noise 60/60
+seed-34    lines that differ, beat8k vs old table solver: 0; deep: 0

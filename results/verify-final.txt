@@ -1,0 +1,22 @@
+v14 main: right 280 of 300: rules 101/120, trends 119/120, noise 60/60 | differ from reference: 0 | 27 s
+v14 seed-23: right 274 of 300: rules 97/120, trends 117/120, noise 60/60 | differ from reference: 0 | 27 s
+v14 seed-24: right 283 of 300: rules 105/120, trends 118/120, noise 60/60 | differ from reference: 0 | 29 s
+v14 seed-25: right 272 of 300: rules 95/120, trends 117/120, noise 60/60 | differ from reference: 0 | 28 s
+v14 seed-26: right 278 of 300: rules 101/120, trends 117/120, noise 60/60 | differ from reference: 0 | 30 s
+v14 seed-27: right 270 of 300: rules 95/120, trends 115/120, noise 60/60 | differ from reference: 0 | 30 s
+v14 TOTAL 1657 of 1800, answers differing from the reference: 0
+v14 vs v1: 0 of 1800 lines differ (answer, kind, length or trend score)
+v14-uno TOTAL 1417 of 1800, answers differing from the reference: 263
+v14-uno vs v7-uno: 0 of 1800 lines differ (answer, kind, length or trend score)
+v14-deep main: right 283 of 300: rules 104/120, trends 119/120, noise 60/60 | differ from reference: 0 | 76 s
+v14-deep seed-23: right 276 of 300: rules 99/120, trends 117/120, noise 60/60 | differ from reference: 0 | 73 s
+v14-deep seed-24: right 286 of 300: rules 108/120, trends 118/120, noise 60/60 | differ from reference: 0 | 75 s
+v14-deep seed-25: right 275 of 300: rules 98/120, trends 117/120, noise 60/60 | differ from reference: 0 | 74 s
+v14-deep seed-26: right 279 of 300: rules 102/120, trends 117/120, noise 60/60 | differ from reference: 0 | 74 s
+v14-deep seed-27: right 277 of 300: rules 102/120, trends 115/120, noise 60/60 | differ from reference: 0 | 77 s
+v14-deep TOTAL 1676 of 1800, answers differing from the reference: 0
+v14-deep vs deep1: 0 of 1800 lines differ (answer, kind, length or trend score)
+v14-32 TOTAL 1657 of 1800, answers differing from the reference: 0
+v14-32 vs v1: 0 of 1800 lines differ (answer, kind, length or trend score)
+v14-deep32 TOTAL 1676 of 1800, answers differing from the reference: 0
+v14-deep32 vs deep1: 0 of 1800 lines differ (answer, kind, length or trend score)
